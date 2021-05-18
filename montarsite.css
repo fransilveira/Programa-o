@@ -1,6 +1,45 @@
 nav{background-color: black;}
 
-.col-1{background-color: blue;
-     width:300px;height:300px;}
+.col1{background-color: dimgray;}
 
-.container{ margin: 0%;}
+.col2{background-color:black}
+
+
+
+
+.r1{background-color: darkgrey;}
+.form{align-content: center;}
+
+.logo{width:500px;padding-top:60px;}
+
+.col1{background-color: darkgrey;
+     height: 400px; padding: 50px; margin-top: 50px;}
+
+.col2{background-color: black;
+     height: 450px; padding: 50px; padding-top: 100px}
+
+.imagem1{width: 100%;}
+
+.col3{
+     background-color: khaki;
+ padding: 20px; }
+
+.container1{height: 500px;
+margin: 0%;}
+
+.container-fluid{padding: 0%;
+
+}
+
+
+
+
+
+
+
+
+
+
+     
+
+
