@@ -21,8 +21,23 @@ nav{background-color: black;}
 .imagem1{width: 100%;}
 
 .col3{
-     background-color: khaki;
- padding: 20px; }
+     background-color: black;
+     padding: 50px;
+     height: 400px;
+     padding-top: 100px;
+     text-align: center;
+     color: white;
+
+     }
+
+
+.col4{
+     padding: 0%;
+     margin: 0%;
+
+}
+
+h1{text-align: center;}
 
 .container1{height: 500px;
 margin: 0%;}
@@ -31,6 +46,24 @@ margin: 0%;}
 
 }
 
+.rodape{
+     background-color: cornflowerblue;
+     width:100%;
+     height:400px;
+     padding: 150px;
+
+
+
+}
+
+.colinst{text-align: left;}
+
+.r7{background-color: cyan;
+     width: 100%;
+     height: 50%;}
+
+
+   
 
 
 
