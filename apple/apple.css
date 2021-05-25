@@ -1,0 +1,75 @@
+.navbar{background-color: black;
+    height: 44px;
+    width: 100%;
+}
+
+.comprar{background-color: blanchedalmond;
+    height: 44px;
+    width: 100%;
+}
+
+.conteudo1{background-image: url(./imagem/iphone12.jpg);
+    background-position-x: center;
+    background-size: cover;
+    ba
+    zoom:100%;
+    width: 100%;
+    height: 640px;
+}
+
+
+.conteudo2{background-image: url(./imagem/mac.jpg);
+    background-position-x: center;
+    background-size: cover;
+    zoom: 100%;
+    width: 100%;
+    height: 580px;
+}
+
+.conteudo3{background-image: url(./imagem/colorsmac.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width:100%;
+    height: 624px;
+}
+
+
+.col1{background-color: violet;
+    width: 773.5px;
+    height: 624px;
+}
+
+.col2{background-color: thistle;
+    width: 773.5px;
+    height: 624px;
+}
+
+
+.col3{background-color: teal;
+    width: 773.5px;
+    height: 624px;
+
+}
+
+.col4{background-color: rgb(141, 230, 230);
+    width: 773.5px;
+    height: 624px;
+
+}
+
+
+.col5{background-color: navy;
+    width: 773.5px;
+    height: 624px;
+
+}
+
+.col6{background-color: #7b7be0;
+    width: 773.5px;
+    height: 624px;
+}
+
+.footer{background-color: steelblue;
+    width: 100%;
+    height: 693.31px;
+}
