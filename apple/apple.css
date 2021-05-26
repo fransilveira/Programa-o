@@ -3,18 +3,100 @@
     width: 100%;
 }
 
-.comprar{background-color: blanchedalmond;
+.comprar{background-color:rgb(245, 245, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 44px;
     width: 100%;
 }
 
+
+.compre{
+    text-decoration: none;
+    color:rgb(109, 170, 232);
+}
+
+
+.span{
+     font-size: 14px;
+     color: #1d1d1f;
+     font-weight: 500;
+     
+}
+    
+
+
+
+
 .conteudo1{background-image: url(./imagem/iphone12.jpg);
     background-position-x: center;
     background-size: cover;
-    ba
     zoom:100%;
     width: 100%;
     height: 640px;
+    text-align: center;
+    color: #1d1d1f;
+    
+}
+
+.links{
+    color: #06c;
+    font-size: 21px;
+    line-height: 1.381;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.icone1{
+
+
+
+}
+
+.saiba-mais{
+    text-decoration: none;
+}
+
+.none{
+    display: none;
+    
+    
+}
+
+.comprar2{
+    text-decoration: none;
+    margin-left: 30px;
+
+}
+    
+
+
+
+
+
+
+
+
+.titulo{
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 1.07143;
+    letter-spacing: -.005em;
+
+    }
+
+.subtitulo{
+    font-size: 28px;
+    line-height: 1.10722;
+    font-weight: 400;
+    letter-spacing: .004em;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-top: 6px; */
+
+
 }
 
 
@@ -34,37 +116,49 @@
 }
 
 
-.col1{background-color: violet;
+.col1{background-image: url(./imagem/col1.jpg);
+    background-position-x: center;
+    background-size: cover;
     width: 773.5px;
     height: 624px;
 }
 
-.col2{background-color: thistle;
+.col2{background-image: url(./imagem/col2.jpg);
+    background-position-x: center;
+    background-size: cover;
     width: 773.5px;
     height: 624px;
 }
 
 
-.col3{background-color: teal;
-    width: 773.5px;
-    height: 624px;
-
-}
-
-.col4{background-color: rgb(141, 230, 230);
-    width: 773.5px;
-    height: 624px;
-
-}
-
-
-.col5{background-color: navy;
+.col3{background-image: url(./imagem/col3.jpg);
+    background-position-x: center;
+    background-size: cover;
     width: 773.5px;
     height: 624px;
 
 }
 
-.col6{background-color: #7b7be0;
+.col4{background-image: url(./imagem/col4.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 773.5px;
+    height: 624px;
+
+}
+
+
+.col5{background-image: url(./imagem/col5.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 773.5px;
+    height: 624px;
+
+}
+
+.col6{background-image: url(./imagem/col6.jpg);
+    background-position-x: center;
+    background-size: cover;
     width: 773.5px;
     height: 624px;
 }
