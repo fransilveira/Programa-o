@@ -1,40 +1,69 @@
-.container{
+/* navbar */
+.container-fluid{
     width: 100%;
-    height: 50px;
+    height: 44px;
+
+}
+
+body{
     background-color: black;
-    
 }
-.row{
-    height: 650px;
+
+.navbar-brand{
+    color: white;
+    
+
+}
+
+.espaco{
     width: 100%;
-
+    height: 44px;
 }
 
-.col-8{
-    background-image: url(./imagens/colorsjpg.jpg) ;
-    
-        
+
+
+/* CARROSEL */
+.top{
+    height: 600px;
+    width: 100%;
 }
 
-.col-4{
-   background-image: url(./imagens/pc.jpg);
+
+/* conteudos  */
+
+.col1{background-color: gold;
+    background-position-x: center;
+    background-size: cover;
+    width: 773.5px;
+    height: 624px;
 }
 
+.conteudo1{
+    text-align: center;
+    padding: 80px;
+
+
+}
 .titulo{
-    color: white;
-    padding-top: 100px;
-    margin-left: 50px;
-}
-
-span{
-    font-family: 'Sigmar One', cursive;
-
+    text-align: center;
+    color: #e76f51;
+    
 
 }
 
-.subtitulo{
-    color: white;
-    padding-top: 15px;
-    margin-left: 50px;
 
+
+.col2{background-color:#2a9d8f ;
+    background-position-x: center;
+    background-size: cover;
+    width: 773.5px;
+    height: 624px;
+}
+
+
+.col3{background-color: #e9c46a;
+    background-position-x: center;
+    background-size: cover;
+    width: 773.5px;
+    height: 624px;
 }
