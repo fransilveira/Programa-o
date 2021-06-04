@@ -31,7 +31,7 @@ body{
 
 /* conteudos  */
 
-.col1{background-color: gold;
+.col1{background-color: transparent;
     background-position-x: center;
     background-size: cover;
     width: 773.5px;
@@ -48,8 +48,31 @@ body{
     text-align: center;
     color: #e76f51;
     
+}
+
+.subtitulo{
+    color: white;
+}
+
+.rowinterna{
+    color: white;
+    padding-top: 30px;
+    width: 100%;
+    height: 624px;
+    
+}
+
+.colint{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
 
 }
+
 
 
 
